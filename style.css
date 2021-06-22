@@ -86,8 +86,10 @@ img{
 }
 .link{
     float: left;
-    margin: 10px;
+    padding: 7px;
+    font-size: 20px;
+    color: black;
 }
 .link:hover{
-    
+  background-color: aquamarine;
 }
